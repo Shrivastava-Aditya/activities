@@ -1,5 +1,6 @@
 //1
-
+#include<stdio.h>
+#include<string.h>
 struct bookstall{
     int book_id;
     char book_title[20];
